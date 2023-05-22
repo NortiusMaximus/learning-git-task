@@ -4,4 +4,4 @@ lista_zakupow = {
 }
 
 for sklep, rzeczy in lista_zakupow.items():
-    print(f'Idę do {sklep}, kupuję tu następujące rzeczy: {rzeczy}')
+    print(f'Idę do {sklep.capitalize()}, kupuję tu następujące rzeczy: {list(map(str.capitalize,rzeczy))}')
