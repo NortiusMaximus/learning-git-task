@@ -12,3 +12,5 @@ for sklep, rzeczy in lista_zakupow.items():
 print(f'W sumie kupuję {x} produktów.')
 
 print("Jeśli są na promocji.")
+
+print("Dużej promocji!")
