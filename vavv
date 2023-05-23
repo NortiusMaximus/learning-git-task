@@ -1,0 +1,29 @@
+[33mcommit 396b1106da797af561664aaf1b3ffc6d4d701d68[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jerzy R <jerzy.roslon@pw.edu.pl>
+Date:   Mon May 22 15:10:32 2023 +0200
+
+    Add count feature
+
+[33mcommit 00778230b84896ae3404a6db04edc5338e306878[m
+Author: Jerzy R <jerzy.roslon@pw.edu.pl>
+Date:   Mon May 22 15:09:19 2023 +0200
+
+    Fix printing settings
+
+[33mcommit 12a929888f55a65f196f3af9f5a5b9f355dc55bb[m
+Author: Jerzy R <jerzy.roslon@pw.edu.pl>
+Date:   Mon May 22 15:07:41 2023 +0200
+
+    Print lista zakupow
+
+[33mcommit a4bfedd2de5ceca545b969677eedaf6af73a92fa[m
+Author: Jerzy R <jerzy.roslon@pw.edu.pl>
+Date:   Mon May 22 15:05:29 2023 +0200
+
+    Add lista zakupow
+
+[33mcommit 809e1f21ca6d58220d5982f4d961d3c93f69db82[m
+Author: Jerzy R <jerzy.roslon@pw.edu.pl>
+Date:   Mon May 22 14:45:32 2023 +0200
+
+    Init project
