@@ -14,3 +14,5 @@ print(f'W sumie kupuję {x} produktów.')
 print("Jeśli są na promocji.")
 
 print("Dużej promocji!")
+
+print("Wtedy podzielę się zakupami z mentorem. Pozdrawiam!")
